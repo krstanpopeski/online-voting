@@ -2,24 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54a6bc7e-6294-4214-95cc-95e5a0c4d822" name="Default Changelist" comment="Latest commit after presentation." />
-    <list id="7bfe52c9-f6f4-4e72-aa44-dbaff9da382a" name="Latest commit after presentation." comment="">
-      <change afterPath="$PROJECT_DIR$/client/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Comments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/ControlledCarousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/ListPolls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +65,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
+            <state relative-caret-position="424">
               <caret line="294" column="37" selection-start-line="294" selection-start-column="27" selection-end-line="294" selection-end-column="37" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -150,6 +132,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="krstanpopeski &lt;38892049+krstanpopeski@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
   </component>
   <component name="IdeDocumentHistory">
@@ -186,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="280" />
     <option name="y" value="170" />
     <option name="width" value="3500" />
@@ -237,8 +224,11 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561926180582" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="C:\Users\popes\React\online-voting\node_modules\eslint" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -265,7 +255,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="54a6bc7e-6294-4214-95cc-95e5a0c4d822" name="Default Changelist" comment="" />
-      <changelist id="7bfe52c9-f6f4-4e72-aa44-dbaff9da382a" name="Latest commit after presentation." comment="" />
+      <changelist id="" name="Latest commit after presentation." comment="" />
       <created>1559492396279</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -292,7 +282,7 @@
       <workItem from="1561817762690" duration="599000" />
       <workItem from="1561897042628" duration="5604000" />
       <workItem from="1562792229783" duration="54000" />
-      <workItem from="1567168321346" duration="593000" />
+      <workItem from="1567168321346" duration="1405000" />
     </task>
     <task id="LOCAL-00001" summary="Latest commit after presentation.">
       <created>1567168487739</created>
@@ -301,14 +291,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567168487739</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Latest commit after presentation.">
+      <created>1567169009304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567169009304</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168368000" />
+    <option name="totallyTimeSpent" value="169180000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20925553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -327,9 +324,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3281471" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3281471" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3281471" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3281471" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -541,7 +538,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
+        <state relative-caret-position="424">
           <caret line="294" column="37" selection-start-line="294" selection-start-column="27" selection-end-line="294" selection-end-column="37" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
